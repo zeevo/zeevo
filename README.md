@@ -33,9 +33,9 @@ _What do you like to do for fun?_
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1181](https://github.com//system-ui/theme-ui/pull/1181) in [system-ui/theme-ui](https://github.com//system-ui/theme-ui)
-2. ❗️ Closed issue [#206](https://github.com//Asymmetrik/node-fhir-server-core/issues/206) in [Asymmetrik/node-fhir-server-core](https://github.com//Asymmetrik/node-fhir-server-core)
-3. 🎉 Merged PR [#246](https://github.com//Asymmetrik/node-fhir-server-core/pull/246) in [Asymmetrik/node-fhir-server-core](https://github.com//Asymmetrik/node-fhir-server-core)
-4. ❗️ Closed issue [#245](https://github.com//Asymmetrik/node-fhir-server-core/issues/245) in [Asymmetrik/node-fhir-server-core](https://github.com//Asymmetrik/node-fhir-server-core)
-5. ❗️ Opened issue [#249](https://github.com//Asymmetrik/node-fhir-server-core/issues/249) in [Asymmetrik/node-fhir-server-core](https://github.com//Asymmetrik/node-fhir-server-core)
+1. 💪 Opened PR [#188](https://github.com/Asymmetrik/ngx-starter/pull/188) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+2. 🎉 Merged PR [#28](https://github.com/DataBiosphere/FHIR/pull/28) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
+3. 💪 Opened PR [#28](https://github.com/DataBiosphere/FHIR/pull/28) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
+4. 💪 Opened PR [#24](https://github.com/DataBiosphere/FHIR/pull/24) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
+5. 🗣 Commented on [#34](https://github.com/anvilproject/client-apis/issues/34) in [anvilproject/client-apis](https://github.com/anvilproject/client-apis)
 <!--END_SECTION:activity-->
