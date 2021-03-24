@@ -33,9 +33,9 @@ _What do you like to do for fun?_
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#188](https://github.com/Asymmetrik/ngx-starter/pull/188) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
-2. 🎉 Merged PR [#28](https://github.com/DataBiosphere/FHIR/pull/28) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
-3. 💪 Opened PR [#28](https://github.com/DataBiosphere/FHIR/pull/28) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
-4. 💪 Opened PR [#24](https://github.com/DataBiosphere/FHIR/pull/24) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
-5. 🗣 Commented on [#34](https://github.com/anvilproject/client-apis/issues/34) in [anvilproject/client-apis](https://github.com/anvilproject/client-apis)
+1. 🎉 Merged PR [#1](https://github.com/zeevo/react-starter/pull/1) in [zeevo/react-starter](https://github.com/zeevo/react-starter)
+2. 🗣 Commented on [#1](https://github.com/zeevo/react-starter/issues/1) in [zeevo/react-starter](https://github.com/zeevo/react-starter)
+3. 💪 Opened PR [#188](https://github.com/Asymmetrik/ngx-starter/pull/188) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+4. 🎉 Merged PR [#28](https://github.com/DataBiosphere/FHIR/pull/28) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
+5. 💪 Opened PR [#28](https://github.com/DataBiosphere/FHIR/pull/28) in [DataBiosphere/FHIR](https://github.com/DataBiosphere/FHIR)
 <!--END_SECTION:activity-->
