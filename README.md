@@ -33,9 +33,9 @@ _What do you like to do for fun?_
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#206](https://github.com/Asymmetrik/ngx-starter/issues/206) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
-2. 🎉 Merged PR [#205](https://github.com/Asymmetrik/ngx-starter/pull/205) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
-3. 🗣 Commented on [#205](https://github.com/Asymmetrik/ngx-starter/issues/205) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
-4. 🗣 Commented on [#206](https://github.com/Asymmetrik/ngx-starter/issues/206) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
-5. ❗️ Opened issue [#206](https://github.com/Asymmetrik/ngx-starter/issues/206) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+1. 💪 Opened PR [#210](https://github.com/Asymmetrik/ngx-starter/pull/210) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+2. ❗️ Closed issue [#206](https://github.com/Asymmetrik/ngx-starter/issues/206) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+3. 🎉 Merged PR [#205](https://github.com/Asymmetrik/ngx-starter/pull/205) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+4. 🗣 Commented on [#205](https://github.com/Asymmetrik/ngx-starter/issues/205) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+5. 🗣 Commented on [#206](https://github.com/Asymmetrik/ngx-starter/issues/206) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
 <!--END_SECTION:activity-->
