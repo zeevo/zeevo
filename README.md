@@ -1,5 +1,3 @@
-# [Shane O'Neill](https://shaneoneill.io)
-
 ## What am I currently working on?
 
 - 📁 **Professionally**:
