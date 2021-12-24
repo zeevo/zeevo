@@ -32,8 +32,8 @@ _What do you like to do for fun?_
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#15635](https://github.com/apache/airflow/issues/15635) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#151](https://github.com/Asymmetrik/node-rest-starter/pull/151) in [Asymmetrik/node-rest-starter](https://github.com/Asymmetrik/node-rest-starter)
-3. 💪 Opened PR [#150](https://github.com/Asymmetrik/node-rest-starter/pull/150) in [Asymmetrik/node-rest-starter](https://github.com/Asymmetrik/node-rest-starter)
-4. ❗️ Opened issue [#203](https://github.com/1200wd/bitcoinlib/issues/203) in [1200wd/bitcoinlib](https://github.com/1200wd/bitcoinlib)
-5. 🗣 Commented on [#212](https://github.com/Asymmetrik/ngx-starter/issues/212) in [Asymmetrik/ngx-starter](https://github.com/Asymmetrik/ngx-starter)
+2. 🗣 Commented on [#15635](https://github.com/apache/airflow/issues/15635) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#151](https://github.com/Asymmetrik/node-rest-starter/pull/151) in [Asymmetrik/node-rest-starter](https://github.com/Asymmetrik/node-rest-starter)
+4. 💪 Opened PR [#150](https://github.com/Asymmetrik/node-rest-starter/pull/150) in [Asymmetrik/node-rest-starter](https://github.com/Asymmetrik/node-rest-starter)
+5. ❗️ Opened issue [#203](https://github.com/1200wd/bitcoinlib/issues/203) in [1200wd/bitcoinlib](https://github.com/1200wd/bitcoinlib)
 <!--END_SECTION:activity-->
