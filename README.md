@@ -8,8 +8,8 @@
 
 ## I'm looking to collaborate on
 
-- 🕸 Professional websites, web applications, and blogs, portfolios
-- 🔧 JAMStack setups and plugins
+- 🕸 Professional websites, web applications, blogs, and portfolios
+- 🔧 NextJS setups and plugins
 
 ## FAQs
 
