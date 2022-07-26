@@ -14,7 +14,8 @@
 ## FAQs
 
 _Favorite technologies?_
-TypeScript, PostgreSQL, React, NiFi, Jenkins
+
+➡️ TypeScript, PostgreSQL, React, NiFi, Jenkins
 
 _What does your handle mean?_
 
