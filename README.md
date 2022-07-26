@@ -4,7 +4,7 @@
   - Healthcare solutions implementing [FHIR](https://hl7.org/FHIR/)
   - Full stack tooling
 - 🎉 **For Fun**:
-  - [Next.js](https://github.com/vercel/next.js) JAMStack applications that are backed by [Wordpress](https://github.com/wp-graphql/wp-graphql)
+  - [Next.js](https://github.com/vercel/next.js) websites and applications
 
 ## I'm looking to collaborate on
 
@@ -12,6 +12,9 @@
 - 🔧 JAMStack setups and plugins
 
 ## FAQs
+
+_Favorite technologies?_
+TypeScript, PostgreSQL, React, NiFi, Jenkins
 
 _What does your handle mean?_
 
