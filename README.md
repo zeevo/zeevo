@@ -29,7 +29,6 @@ _What do you like to do for fun?_
 
 - 💻 Code
 - 🌲 Hike
-- 🎨 Draw
 
 ### :zap: Recent Activity
 
