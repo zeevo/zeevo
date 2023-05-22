@@ -1,42 +1,27 @@
-## What am I currently working on?
+Developer * Builder
 
-- 📁 **Professionally**:
-  - Healthcare solutions implementing [FHIR](https://hl7.org/FHIR/)
-  - Full stack tooling
-- 🎉 **For Fun**:
-  - [Next.js](https://github.com/vercel/next.js) websites and applications
+## Projects
 
-## I'm looking to collaborate on
+- [CONEY.GG](https://coney.gg)
+- [The Dead Game Game](https://deadgame.coney.gg)
+- [Sycra.net](https://nostalgic-hamilton-2722b4.netlify.app/)
+- [Next Starter](https://github.com/zeevo/next-starter)
 
-- 🕸 Professional websites, web applications, blogs, and portfolios
-- 🔧 NextJS setups and plugins
+## FAQ
+- Favorite languages?
+  - TypeScript, Java, Python
+- Favorite frameworks and libraries?
+  - Next.js, Prisma, tRPC, NiFi, Ansible
+- Favorite database?
+  - Postgres
+- Backend or frontend?
+  - Both
+- What does your handle mean?
+  - Longtime handle that came from my old WoW character
 
-## FAQs
-
-_Favorite languages?_
-
-➡️ TypeScript, Java, Python
-
-_Favorite frameworks and libraries?_
-
-➡️ Next.js, Prisma, tRPC, NiFi, Ansible
-
-_Favorite database?_
-
-➡️ Postgres
-
-_Backend or frontend?_
-Both
-
-_What does your handle mean?_
-
-➡️ Longtime handle that came from my old warcraft character.
-
-_How can I best reach you?_
-
-➡️ [Twitter](https://twitter.com/zeevosec) or [Discord @ zeevo#0572](https://discord.com).
-
-_What do you like to do for fun?_
-
-- 💻 Code
-- 🌲 Hike
+## Writing
+- 20230415[Starter Based Programming](https://zeevo.io/posts/2023/04/15/starter-based-programming)
+- 20220216[Drawabox Templates](https:///posts/2022/02/16/drawabox-templates)
+- 20211202[Drawabox 250 Box Challenge](https:///posts/2021/12/02/drawabox-250-box-challenge)
+- 20211131[Drawabox Lesson One](https:///posts/2021/12/01/drawabox-lesson-one)
+- 20201202[React FHIR Client](https:///posts/2020/12/01/react-fhir-client)
