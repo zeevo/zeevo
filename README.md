@@ -1,4 +1,4 @@
-Developer * Builder
+Developer - Builder
 
 ## Projects
 
