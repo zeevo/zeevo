@@ -11,7 +11,7 @@ Developer - Builder
 - Favorite languages?
   - TypeScript, Java, Python
 - Favorite frameworks and libraries?
-  - Next.js, Prisma, tRPC, NiFi, Ansible
+  - Next.js, Zod, Ansible, NiFi
 - Favorite database?
   - Postgres
 - Backend or frontend?
