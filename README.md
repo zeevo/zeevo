@@ -9,7 +9,7 @@ Developer - Builder
 
 ## FAQ
 - Favorite languages?
-  - TypeScript, Java, Python
+  - TypeScript, Kotlin, Python
 - Favorite frameworks and libraries?
   - Next.js, Zod, Ansible, NiFi
 - Favorite database?
