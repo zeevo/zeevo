@@ -1,4 +1,4 @@
-Developer - Builder
+I'm a software developer, builder, and OSS nerd.
 
 ## Projects
 
