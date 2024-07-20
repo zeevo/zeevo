@@ -1,7 +1,3 @@
-I'm a software developer, builder, and OSS nerd.
+i'm a software developer, builder, and OSS nerd. i like to focus on creating fantastic websites and applications.
 
-## Projects
-
-- [coney.gg](https://coney.gg)
-- [next-postgrest](https://github.com/zeevo/next-postgrest)
-- [next starter](https://github.com/zeevo/t3-shadcn-ui)
+[zeevo.io](https://zeevo.io)
